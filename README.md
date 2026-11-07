@@ -11,6 +11,8 @@ The notebook automatically extracts the required files:
 - `multimodal_imdb.hdf5`
 - `metadata.npy`
 
+This file is 13gb, so make sure space is not an issue on your computer
+
 ## Running the Notebook
 1. Install the required packages using `pip install -r requirements.txt`.
 2. Open `movie_genre_classification.ipynb` in Jupyter Notebook.
