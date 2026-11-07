@@ -3,6 +3,8 @@
 ## Dataset
 Download the MM-IMDb dataset from Kaggle and place the ZIP file in the project folder.
 
+https://www.kaggle.com/datasets/johnarevalo/mmimdb
+
 Rename the ZIP file to `mmimdb.zip`.
 
 The notebook automatically extracts the required files:
