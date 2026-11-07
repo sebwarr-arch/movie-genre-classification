@@ -1,0 +1,11 @@
+numpy
+pandas
+h5py
+matplotlib
+scikit-learn
+torch
+torchvision
+transformers
+gensim
+certifi
+jupyter
